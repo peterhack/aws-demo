@@ -1,6 +1,6 @@
 
-[![Build Status](https://cloud.drone.io/api/badges/luisredda/drone-with-nodejs/status.svg)](https://cloud.drone.io/luisredda/drone-with-nodejs)
+[![Build Status](https://cloud.drone.io/api/badges/peterhack/aws-demo/status.svg)](https://cloud.drone.io/peterhack/aws-demo)
 
 # aws-demo pipeline
-An example NodeJS repo with Drone test/build
+An example nginx build repo with Drone test/build
 
