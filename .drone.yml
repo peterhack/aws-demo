@@ -18,7 +18,7 @@ steps:
     username: peterhack
     password: 
       from_secret: dockerhubpw
-    repo: ldhertert/aws-demo
+    repo: peterhack/aws-demo
     tag:
     - latest
     - ${DOCKER_TAG}
